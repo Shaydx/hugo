@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://mtoama.dk/kea/3sem/shay/"
+baseURL = "https://github.com/Shaydx/hugo/"
 languageCode = "en-us"
 title = "Mishari Toama"
 theme = "forty"
