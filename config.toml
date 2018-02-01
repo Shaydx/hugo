@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://github.com/Shaydx/hugo/"
+baseURL = "https://shaydx.github.io/hugo/"
 languageCode = "en-us"
 title = "Mishari Toama"
 theme = "forty"
