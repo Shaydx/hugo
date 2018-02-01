@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "http://mtoama.dk/kea/3sem/shay/"
 languageCode = "en-us"
 title = "Mishari Toama"
 theme = "forty"
@@ -71,7 +71,7 @@ googleAnalytics = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Mishari"
+    title = "Hej, jeg hedder Mishari"
     subtitle = "Webudvikler, Studerende, Ven, Bror, Søn"
     buttonText = "Mere om mig"
     url = "om"
@@ -83,28 +83,16 @@ googleAnalytics = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Case 1"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Blog"
+      subtitle = "Spændende tænker og nyheder"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blog"
 
     [[params.tiles.showcase]]
-      title = "Case 2"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
-
-    [[params.tiles.showcase]]
-      title = "Blogpost 1"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
-
-    [[params.tiles.showcase]]
-      title = "Blogpost 2s"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
+      title = "Portfolio"
+      subtitle = "See min portfolio"
+      image = "3d.png"
+      url = "portfolio"
 
     # You can make more showcases by copy and pasting the code above
 
@@ -118,14 +106,10 @@ googleAnalytics = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-    buttonText = "Get Started"
-    url = "blogs"
+    title = "About Me"
+    subtitle = """Jeg hedder Mishari Toama (bliver kaldt Shay), jeg er 24 år og til dagligt studerer jeg til Multimediedesigner på Københavns Erhvervsakademi"""
+    buttonText = "Read More About Me"
+    url = "om"
 
 
   # Contact section
