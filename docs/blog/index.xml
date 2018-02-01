@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Mishari Toama</title>
+    <link>https://shaydx.github.io/hugo/blog/</link>
+    <description>Recent content in Blogs on Mishari Toama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jan 2018 09:38:08 +0100</lastBuildDate>
+    
+	<atom:link href="https://shaydx.github.io/hugo/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SoTo Logo</title>
+      <link>https://shaydx.github.io/hugo/blog/blogpost2/</link>
+      <pubDate>Tue, 30 Jan 2018 09:38:35 +0100</pubDate>
+      
+      <guid>https://shaydx.github.io/hugo/blog/blogpost2/</guid>
+      <description>Software Brugt Photoshop CC 2018.
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis non dolor et venenatis. Duis nec suscipit ipsum, et vestibulum urna. Donec et sapien ut mauris fringilla pellentesque. Mauris ac ultricies massa. Phasellus eget lorem metus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae urna metus. Fusce quis cursus erat, ut fringilla sem. Vivamus tincidunt, erat vel consequat consectetur, arcu lorem hendrerit nunc, vel varius ante lorem et arcu.</description>
+    </item>
+    
+    <item>
+      <title>Donuts &amp; Coffee</title>
+      <link>https://shaydx.github.io/hugo/blog/blogpost1/</link>
+      <pubDate>Tue, 30 Jan 2018 09:38:20 +0100</pubDate>
+      
+      <guid>https://shaydx.github.io/hugo/blog/blogpost1/</guid>
+      <description>Software Used 3D Studio Max for Modelling. Maya for Lighting. Shaders &amp;amp; Rendering
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis non dolor et venenatis. Duis nec suscipit ipsum, et vestibulum urna. Donec et sapien ut mauris fringilla pellentesque. Mauris ac ultricies massa. Phasellus eget lorem metus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae urna metus. Fusce quis cursus erat, ut fringilla sem.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,6 @@
 ---
 title: "Kontakt Mig"
 date: 2018-01-30T09:38:00+01:00
-draft: true
 ---
 
 <form action="https://formspree.io/shaydx@gmail.com" method="POST">

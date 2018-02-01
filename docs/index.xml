@@ -6,9 +6,79 @@
     <description>Recent content on Mishari Toama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jan 2018 09:37:45 +0100</lastBuildDate>
     
 	<atom:link href="https://shaydx.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tak For Din Besked</title>
+      <link>https://shaydx.github.io/hugo/tak/</link>
+      <pubDate>Tue, 30 Jan 2018 10:56:51 +0100</pubDate>
+      
+      <guid>https://shaydx.github.io/hugo/tak/</guid>
+      <description>Jeg vender tilbage hurtigst muligt!</description>
+    </item>
+    
+    <item>
+      <title>LeFix</title>
+      <link>https://shaydx.github.io/hugo/portfolio/case2/</link>
+      <pubDate>Tue, 30 Jan 2018 09:39:09 +0100</pubDate>
+      
+      <guid>https://shaydx.github.io/hugo/portfolio/case2/</guid>
+      <description>Software Brugt Magento
+ Le Fix havde brug for en digital løsning, som var både funktionel og visuel på samme niveau som deres fysiske butikker – clean and simple.</description>
+    </item>
+    
+    <item>
+      <title>Muuto</title>
+      <link>https://shaydx.github.io/hugo/portfolio/case1/</link>
+      <pubDate>Tue, 30 Jan 2018 09:38:56 +0100</pubDate>
+      
+      <guid>https://shaydx.github.io/hugo/portfolio/case1/</guid>
+      <description>Software Brugt Magento.
+ Muuto havde brug for et fleksibelt CMS, som skulle integreres med deres PIM-system. Hele sitet har fået en større makeover med et helt nyt design.</description>
+    </item>
+    
+    <item>
+      <title>SoTo Logo</title>
+      <link>https://shaydx.github.io/hugo/blog/blogpost2/</link>
+      <pubDate>Tue, 30 Jan 2018 09:38:35 +0100</pubDate>
+      
+      <guid>https://shaydx.github.io/hugo/blog/blogpost2/</guid>
+      <description>Software Brugt Photoshop CC 2018.
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis non dolor et venenatis. Duis nec suscipit ipsum, et vestibulum urna. Donec et sapien ut mauris fringilla pellentesque. Mauris ac ultricies massa. Phasellus eget lorem metus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae urna metus. Fusce quis cursus erat, ut fringilla sem. Vivamus tincidunt, erat vel consequat consectetur, arcu lorem hendrerit nunc, vel varius ante lorem et arcu.</description>
+    </item>
+    
+    <item>
+      <title>Donuts &amp; Coffee</title>
+      <link>https://shaydx.github.io/hugo/blog/blogpost1/</link>
+      <pubDate>Tue, 30 Jan 2018 09:38:20 +0100</pubDate>
+      
+      <guid>https://shaydx.github.io/hugo/blog/blogpost1/</guid>
+      <description>Software Used 3D Studio Max for Modelling. Maya for Lighting. Shaders &amp;amp; Rendering
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis non dolor et venenatis. Duis nec suscipit ipsum, et vestibulum urna. Donec et sapien ut mauris fringilla pellentesque. Mauris ac ultricies massa. Phasellus eget lorem metus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae urna metus. Fusce quis cursus erat, ut fringilla sem.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt Mig</title>
+      <link>https://shaydx.github.io/hugo/kontakt/</link>
+      <pubDate>Tue, 30 Jan 2018 09:38:00 +0100</pubDate>
+      
+      <guid>https://shaydx.github.io/hugo/kontakt/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Om Mig</title>
+      <link>https://shaydx.github.io/hugo/om/</link>
+      <pubDate>Tue, 30 Jan 2018 09:37:53 +0100</pubDate>
+      
+      <guid>https://shaydx.github.io/hugo/om/</guid>
+      <description>Jeg hedder Mishari Toama (bliver kaldt Shay), jeg er 24 år og til dagligt studerer jeg til Multimediedesigner på Københavns Erhvervsakademi. I min fritid kan man enten finde mig i fitness centeret, sammen med nogle venner eller bag computeren og kode.</description>
+    </item>
     
   </channel>
 </rss>

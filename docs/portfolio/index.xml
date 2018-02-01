@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Mishari Toama</title>
+    <link>https://shaydx.github.io/hugo/portfolio/</link>
+    <description>Recent content in Portfolio on Mishari Toama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jan 2018 09:38:48 +0100</lastBuildDate>
+    
+	<atom:link href="https://shaydx.github.io/hugo/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LeFix</title>
+      <link>https://shaydx.github.io/hugo/portfolio/case2/</link>
+      <pubDate>Tue, 30 Jan 2018 09:39:09 +0100</pubDate>
+      
+      <guid>https://shaydx.github.io/hugo/portfolio/case2/</guid>
+      <description>Software Brugt Magento
+ Le Fix havde brug for en digital løsning, som var både funktionel og visuel på samme niveau som deres fysiske butikker – clean and simple.</description>
+    </item>
+    
+    <item>
+      <title>Muuto</title>
+      <link>https://shaydx.github.io/hugo/portfolio/case1/</link>
+      <pubDate>Tue, 30 Jan 2018 09:38:56 +0100</pubDate>
+      
+      <guid>https://shaydx.github.io/hugo/portfolio/case1/</guid>
+      <description>Software Brugt Magento.
+ Muuto havde brug for et fleksibelt CMS, som skulle integreres med deres PIM-system. Hele sitet har fået en større makeover med et helt nyt design.</description>
+    </item>
+    
+  </channel>
+</rss>
